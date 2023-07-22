@@ -6,7 +6,8 @@
             animation-name: example;
             animation-duration: 8s;
         }
-
+        {
+            
         html {
             scroll-behavior: smooth;
         }
